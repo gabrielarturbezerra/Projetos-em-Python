@@ -1,4 +1,4 @@
-## Projetos em Phyton
+## Projetos em Python
 
 #Tecnologias utilizadas
 - Python
