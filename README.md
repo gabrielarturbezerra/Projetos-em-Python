@@ -1,1 +1,6 @@
-# Projetos-em-Phyton
+## Projetos em Phyton
+
+#Tecnologias utilizadas
+- Python
+- PySimpleGUI
+- VS Code
